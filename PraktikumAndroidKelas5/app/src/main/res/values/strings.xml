@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum Kelas 5</string>
+    <string name="my_name">Achmad Rifa'i</string>
+    <string name="praktikum_apps">Praktikum Apps</string>
+    <string name="student_id">18630026</string>
+    <string name="student_name">Rifa'i</string>
+    <string name="phone_number">0896992133478</string>
+    <string name="send">Send</string>
+    <string name="dial">Dial</string>
+</resources>
